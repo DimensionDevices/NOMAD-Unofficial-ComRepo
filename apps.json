@@ -4,8 +4,14 @@
   },
   {
     "name": "virus.com",
-    "description": "Something to crash your browser.",
+    "description": "Something to crash your browser",
     "category": "other",
-    "size": 20100
+    "size": 4850
+  },
+  {
+    "name": "hidden.com",
+    "description": "How to obfuscate your ID",
+    "category": "other",
+    "size": 135
   }
 ]
